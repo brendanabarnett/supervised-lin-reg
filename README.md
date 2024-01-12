@@ -1,5 +1,5 @@
 # Supervised Learning Linear Regression
-The 'Hello, World!" of machine learning. This is a simple supervised machine learning linear regression model created using a PyTorch framework. I employed a standard stochastic gradient descent to minimize the mean squared error.
+The 'Hello, World!' of machine learning. This is a simple supervised machine learning linear regression model created using a PyTorch framework. I employed a standard stochastic gradient descent to minimize the mean squared error.
 
 ### Requirements
 - Environment that supports Python
@@ -7,7 +7,7 @@ The 'Hello, World!" of machine learning. This is a simple supervised machine lea
 - NumPy: Simplify array operations
 - Matplotlib: Plot predictions
 
-### The Model
+### Model Overview
 - **Model Type:** Linear Regression
 - **Optimization Function:** Stochastic Gradient Descent
 - **Loss Function:** Mean Squared Error
@@ -20,4 +20,4 @@ The 'Hello, World!" of machine learning. This is a simple supervised machine lea
 - The aim is to create a series of demo repositories to make machine learning more approachable through simple examples
 - Future updates will involve additional documentation to further explain design decisions and important functions
 
-Feel free to reach out if you have any questions, ideas for improvement, or just want to talk about ML at brendanabarnett@gmail.com
+Feel free to reach out if you have any questions, ideas for improvement, or just want to talk about ML at brendanabarnett@gmail.com.
